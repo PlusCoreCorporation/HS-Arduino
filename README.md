@@ -1,4 +1,3 @@
 # Education 
 Test.01
-I2C OLED : https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/
-?!? : https://lastminuteengineers.com/oled-display-arduino-tutorial/
+Arduino Projects : https://lastminuteengineers.com/electronics/arduino-projects/
